@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plants>
+	<tree-list>
+		<tree>
+			<name>birch</name>
+			<height>1.9</height>
+		</tree>
+		<tree>
+			<name>maple</name>
+			<height>3.2</height>
+		</tree>
+		<tree>
+			<name>oak</name>
+			<height>5.3</height>
+		</tree>
+		<tree>
+			<name>aspen</name>
+			<height>4.1</height>
+		</tree>
+	</tree-list>
+
+	<bush-list>
+		<bush>
+			<name>heather</name>
+			<height>1.2</height>
+		</bush>
+		<bush>
+			<name>jasmine</name>
+			<height>1.6</height>
+		</bush>
+		<bush>
+			<name>lilac bush</name>
+			<height>2.0</height>
+		</bush>
+	</bush-list>
+</plants>
